@@ -20,9 +20,6 @@
   <img align="center" alt="Diego-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Diego-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Diego-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Diego-K8s" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Diego-Portainer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg">
-  <img align="center" alt="Diego-Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">
 </div>
 
 ## 
@@ -35,4 +32,4 @@
   <a href="https://www.linkedin.com/in/diegohartwig" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- ![Snake animation](https://github.com/diegohartwig/diegohartwig/blob/output/github-contribution-grid-snake.svg)
+
