@@ -24,10 +24,6 @@
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohartwig&exclude_repo=SIGE_2010_Delphi_Firebird,diegohartwig.github.io&show_icons=true&theme=dracula&hide=jupyter%20notebook)
-
-##
-
 <div>
   <a href="https://www.linkedin.com/in/diegohartwig" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
