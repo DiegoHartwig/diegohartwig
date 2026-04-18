@@ -1,25 +1,15 @@
 ### Olá! Eu sou o Diego Hartwig 👋
 
-- 🔭 Atualmente trabalhando com .NET, C#, ASP.NET Core MVC, API REST, RabbitMQ, Javascript, Redis, LDAP, SignalR, Hangfire, SQL Server, PostgreSQL, MongoDb, Entity Framework, SignalR, testes de Unidade com XUnit e testes de performance com JMeter
+🚀 Engenheiro de Dados com foco em Inteligência Artificial Aplicada
 
-- 🌱 Estudando Inteligência Artificial Aplicada: Machine Learning, Deep Learning, Visão Computacional, Análise de Big Data, Estatística Aplicada, Arquitetura de Dados, Storytelling, Gestão de Projetos de IA e Frameworks de IA.
+🔭 Atualmente trabalhando com arquitetura de dados e lakehouse, construindo pipelines escaláveis e confiáveis
+⚙️ Experiência com processamento distribuído, orquestração de workflows e modelagem de dados para ambientes analíticos
+🧠 Aplicando IA na prática com RAG, agentes, MCP e integração entre LLMs e dados corporativos
+🏗️ Atuação em ambientes on-premise com foco em performance, estabilidade e governança de dados
+🔍 Interesse em soluções que conectam dados, software e inteligência artificial de forma prática e sustentável
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Diego-DotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Diego-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Diego-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Diego-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Diego-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-  <img align="center" alt="Diego-RabbitMq" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Diego-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Diego-Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
-  <img align="center" alt="Diego-SqlServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Diego-MDb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Diego-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Diego-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="Diego-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Diego-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 ## 
