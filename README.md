@@ -1,12 +1,13 @@
-### Olá! Eu sou o Diego Hartwig 👋
+## Olá! Eu sou o Diego Hartwig 👋  
 
-🚀 Engenheiro de Dados com foco em Inteligência Artificial Aplicada
+🚀 **Engenheiro de Dados | IA Aplicada**  
+Construindo soluções onde dados, software e inteligência artificial trabalham juntos.
 
-🔭 Atualmente trabalhando com arquitetura de dados e lakehouse, construindo pipelines escaláveis e confiáveis
-⚙️ Experiência com processamento distribuído, orquestração de workflows e modelagem de dados para ambientes analíticos
-🧠 Aplicando IA na prática com RAG, agentes, MCP e integração entre LLMs e dados corporativos
-🏗️ Atuação em ambientes on-premise com foco em performance, estabilidade e governança de dados
-🔍 Interesse em soluções que conectam dados, software e inteligência artificial de forma prática e sustentável
+- 🔭 Construção de plataformas e pipelines de dados em arquitetura lakehouse  
+- ⚙️ Foco em escalabilidade, confiabilidade e performance em ambientes de dados  
+- 🧠 Aplicação prática de IA com RAG, agentes, MCP e integração com LLMs  
+- 🏗️ Experiência em ambientes on-premise e ecossistemas distribuídos  
+- 🔍 Interesse em arquitetura de dados moderna, DataOps e sistemas inteligentes orientados a dados  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
